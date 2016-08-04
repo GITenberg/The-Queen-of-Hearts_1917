@@ -1,0 +1,36 @@
+_repo: The-Queen-of-Hearts_1917
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: An early innovator in the genre of mystery and detective fiction, Wilkie
+  Collins gained an enormous readership during his lifetime. Though many readers became
+  hooked on his work due to his meticulous plotting and mastery with suspense, critics
+  say that Collins' popularity endured as a result of his incisive social insight
+  and commentary. "The Queen of Hearts" is a masterpiece of Victorian-era detective
+  fiction and a rewarding read for fans of classic mysteries.
+gutenberg_issued: '1999-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Wales, South -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Brothers -- Fiction'
+- GITenberg
+title: The Queen of Hearts
+url: http://www.gutenberg.org/ebooks/1917
