@@ -1,5 +1,8 @@
 _repo: The-Queen-of-Hearts_1917
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -15,6 +18,8 @@ description: An early innovator in the genre of mystery and detective fiction, W
   say that Collins' popularity endured as a result of his incisive social insight
   and commentary. "The Queen of Hearts" is a masterpiece of Victorian-era detective
   fiction and a rewarding read for fans of classic mysteries.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1917#The-Queen-of-Hearts
 gutenberg_issued: '1999-10-01'
 gutenberg_type: Text
 identifiers:
